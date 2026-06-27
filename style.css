@@ -1,0 +1,12 @@
+body{
+    background:#f4f4f4;
+}
+
+.card{
+    margin-top:50px;
+    box-shadow:0px 0px 10px rgba(0,0,0,0.1);
+}
+
+.task-card{
+    margin-bottom:10px;
+}
