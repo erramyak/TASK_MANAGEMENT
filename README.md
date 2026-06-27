@@ -34,3 +34,22 @@ A full-stack Task Management Web Application that allows users to securely manag
 - bcrypt.js
 
 ## Project Structure
+task-manager/
+│
+├── backend/
+│ ├── config/
+│ ├── controllers/
+│ ├── middleware/
+│ ├── routes/
+│ ├── server.js
+│ └── .env
+│
+├── frontend/
+│ ├── css/
+│ ├── js/
+│ ├── index.html
+│ ├── login.html
+│ ├── register.html
+│ └── dashboard.html
+│
+└── README.md
